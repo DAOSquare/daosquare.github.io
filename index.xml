@@ -2,192 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DAOSquare</title>
-    <link>https://www.daosquare.io/</link>
+    <link>https://daosquare.netlify.app/</link>
     <description>Recent content on DAOSquare</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
     
-	<atom:link href="https://www.daosquare.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://daosquare.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>https://www.daosquare.io/blog/blog-post-1/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://www.daosquare.io/blog/blog-post-1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>https://www.daosquare.io/blog/blog-post-2/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://www.daosquare.io/blog/blog-post-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>https://www.daosquare.io/blog/blog-post-3/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://www.daosquare.io/blog/blog-post-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>https://www.daosquare.io/blog/blog-post-4/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://www.daosquare.io/blog/blog-post-4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>https://www.daosquare.io/blog/blog-post-5/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://www.daosquare.io/blog/blog-post-5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>https://www.daosquare.io/blog/blog-post-6/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://www.daosquare.io/blog/blog-post-6/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
     
     <item>
       <title>Colorwav</title>
-      <link>https://www.daosquare.io/portfolio/colorwav/</link>
+      <link>https://daosquare.netlify.app/portfolio/colorwav/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.daosquare.io/portfolio/colorwav/</guid>
+      <guid>https://daosquare.netlify.app/portfolio/colorwav/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia.</description>
     </item>
     
     <item>
       <title>DAOHaus</title>
-      <link>https://www.daosquare.io/portfolio/daohaus/</link>
+      <link>https://daosquare.netlify.app/portfolio/daohaus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.daosquare.io/portfolio/daohaus/</guid>
+      <guid>https://daosquare.netlify.app/portfolio/daohaus/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia.</description>
     </item>
     
     <item>
       <title>DeFi Arts Intelligencer</title>
-      <link>https://www.daosquare.io/portfolio/defi-arts-intelligencer/</link>
+      <link>https://daosquare.netlify.app/portfolio/defi-arts-intelligencer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.daosquare.io/portfolio/defi-arts-intelligencer/</guid>
+      <guid>https://daosquare.netlify.app/portfolio/defi-arts-intelligencer/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia.</description>
     </item>
     
     <item>
       <title>IOSG Ventrues</title>
-      <link>https://www.daosquare.io/portfolio/iosg-ventrues/</link>
+      <link>https://daosquare.netlify.app/portfolio/iosg-ventrues/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.daosquare.io/portfolio/iosg-ventrues/</guid>
+      <guid>https://daosquare.netlify.app/portfolio/iosg-ventrues/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia.</description>
     </item>
     
     <item>
       <title>Media of DAOSquare</title>
-      <link>https://www.daosquare.io/portfolio/media-of-daosquare/</link>
+      <link>https://daosquare.netlify.app/portfolio/media-of-daosquare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.daosquare.io/portfolio/media-of-daosquare/</guid>
+      <guid>https://daosquare.netlify.app/portfolio/media-of-daosquare/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia.</description>
     </item>
     
     <item>
       <title>MetaCartel</title>
-      <link>https://www.daosquare.io/portfolio/metacartel/</link>
+      <link>https://daosquare.netlify.app/portfolio/metacartel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.daosquare.io/portfolio/metacartel/</guid>
+      <guid>https://daosquare.netlify.app/portfolio/metacartel/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia.</description>
     </item>
     
     <item>
       <title>MetaCartel Ventrues China</title>
-      <link>https://www.daosquare.io/portfolio/metacartel-ventrues-china/</link>
+      <link>https://daosquare.netlify.app/portfolio/metacartel-ventrues-china/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.daosquare.io/portfolio/metacartel-ventrues-china/</guid>
+      <guid>https://daosquare.netlify.app/portfolio/metacartel-ventrues-china/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia.</description>
     </item>
     
     <item>
       <title>MetaClan</title>
-      <link>https://www.daosquare.io/portfolio/metaclan/</link>
+      <link>https://daosquare.netlify.app/portfolio/metaclan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.daosquare.io/portfolio/metaclan/</guid>
+      <guid>https://daosquare.netlify.app/portfolio/metaclan/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia.</description>
     </item>
     
     <item>
       <title>MetaFactory</title>
-      <link>https://www.daosquare.io/portfolio/metafactory/</link>
+      <link>https://daosquare.netlify.app/portfolio/metafactory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.daosquare.io/portfolio/metafactory/</guid>
+      <guid>https://daosquare.netlify.app/portfolio/metafactory/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia.</description>
     </item>
     
     <item>
       <title>MetaGame</title>
-      <link>https://www.daosquare.io/portfolio/metagame/</link>
+      <link>https://daosquare.netlify.app/portfolio/metagame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.daosquare.io/portfolio/metagame/</guid>
+      <guid>https://daosquare.netlify.app/portfolio/metagame/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia.</description>
     </item>
     
     <item>
       <title>meTokens</title>
-      <link>https://www.daosquare.io/portfolio/metokens/</link>
+      <link>https://daosquare.netlify.app/portfolio/metokens/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.daosquare.io/portfolio/metokens/</guid>
+      <guid>https://daosquare.netlify.app/portfolio/metokens/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia.</description>
     </item>
     
     <item>
       <title>MolochDAO</title>
-      <link>https://www.daosquare.io/portfolio/molochdao/</link>
+      <link>https://daosquare.netlify.app/portfolio/molochdao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.daosquare.io/portfolio/molochdao/</guid>
+      <guid>https://daosquare.netlify.app/portfolio/molochdao/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia.</description>
     </item>
     
     <item>
       <title>Odyssy</title>
-      <link>https://www.daosquare.io/portfolio/odyssy/</link>
+      <link>https://daosquare.netlify.app/portfolio/odyssy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.daosquare.io/portfolio/odyssy/</guid>
+      <guid>https://daosquare.netlify.app/portfolio/odyssy/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia.</description>
     </item>
     
     <item>
       <title>RaidGuild</title>
-      <link>https://www.daosquare.io/portfolio/raidguild/</link>
+      <link>https://daosquare.netlify.app/portfolio/raidguild/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.daosquare.io/portfolio/raidguild/</guid>
+      <guid>https://daosquare.netlify.app/portfolio/raidguild/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia.</description>
     </item>
     
